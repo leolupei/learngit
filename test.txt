@@ -1,6 +1,2 @@
-/Users/lupei/Documents
-
-
-/Users/lupei/Documents
-/Users/lupei/Documents
-/Users/lupei/Documents
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
